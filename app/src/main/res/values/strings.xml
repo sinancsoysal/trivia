@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Trivia Knowledge</string>
+    <string name="fbText">We will never post without\nyour permission !</string>
+    <string name="likeusonfb">Visit or Like us On fB\n\nso you won\'t miss any news,updates..</string>
+    <string name="joinfb">Join our fb group\n\nsuggest,rate questions in our fb group</string>
+
+    <string name="taptoviewachievement">Tap to view\nAchievements</string>
+    <string name="achievement_not_available">Achievement not available.\nPlease sign in and try again.</string>
+    <string name="signin_other_error">There was an issue with sign-in, please try again later.</string>
+    <string name="signin_failure">Unable to sign in.</string>
+    <string name="loading_from_cloud">Loading your progress.</string>
+    <string name="format_days_ago">%d days ago</string>
+    <string name="format_hours_ago">%d hours ago</string>
+    <string name="format_minutes_ago">%d minutes ago</string>
+    <string name="format_seconds_ago">%d seconds ago</string>
+    <string name="moments_ago">moments ago</string>
+    <string name="snapshotimage_description">Saved image for snapshot</string>
+    <string name="select_conflicted_game">Select which game to load</string>
+    <string name="leaderboards_not_available">Leaderboards not available.\nPlease sign in and try again.</string>
+
+    <string name="joingroup">+ Join Group</string>
+    <string name="triviaknowledge">Trivia Knowledge</string>
+    <string name="useDiamond">Use Gems</string>
+    <string name="icons8">Icons8</string>
+    <string name="boom">boom\nCost : 1 gem</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="arts_gk">Arts &amp; gk</string>
+    <string name="science">Science</string>
+    <string name="geography">Geography</string>
+    <string name="sports">Sports</string>
+    <string name="personality">Famous Personalities</string>
+    <string name="Cost_2_Diamond">Cost: 2 Gems\n</string>
+    <string name="diamond_left_in_your_bucket">Gems left in your bucket.</string>
+    <string name="Shop_diamonds_at_cheap_price">Shop Gems at cheap price.</string>
+    <string name="Test_admob_unit_id_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="Test_admob_unit_id_rewardedVideo">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="Test_admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="Test_admob_Native_ads">ca-app-pub-3940256099942544/2247696110</string>
+
+
+    <string name="buyDiamond">Buy Gems</string>
+    <string name="watchvideo">Watch Video\nWatch rewarded video get 1 gem</string>
+    <string name="posttofb">Post to Facebook</string>
+    <string name="textjoin">Join fb group to start suggesting questions.</string>
+    <string name="textnotice">Notice: You can post after admin accepts your joining request thanks for your patience.</string>
+    <string name="textnotice2"> Answer will be given by other group members in comment section of post.</string>
+    <string name="textnoticeabove">Notice: This will post inside fb group "Trivia Knowledge".</string>
+    <string name="suggestquestion2">Suggest questions and join the community</string>
+    <string name="rateandanswer2">Rate or Answer questions suggested by community</string>
+    <string name="suggestquestion1">Suggest questions</string>
+    <string name="rateandanswer1">Rate or Answer questions</string>
+    <string name="shopGems">--------Gems--------</string>
+    <string name="buyDiamond2">30 Gems\n\nUSD 0.99</string>
+    <string name="resetgameinfo">You are about to delete your game progress from your device.\n\nYour score, in app purchase(if any), answers and hints will be deleted.</string>
+    <string name="cancel">✖</string>
+    <string name="pause">||</string>
+    <string name="artsandgk">Arts &amp; gk</string>
+    <string name="facebook1">Facebook</string>
+    <string name="facebook2">Login with facebook to start suggesting questions in facebook group</string>
+    <string name="googleplus1">Google plus</string>
+    <string name="googleplus2">Login with google + to start suggesting questions in google plus community</string>
+    <string name="fillsomerandomeanswer">Fill some random answer boxes.</string>
+    <string name="absolutlyfree">Absolutely  Free!!!!!</string>
+    <string name="FreeHint">Free Hint</string>
+    <string name="Image">Image</string>
+    <string-array name="tabsss">
+        <item>TAB1</item>
+        <item>TAB2</item>
+        <item>TAB3</item>
+    </string-array>
+    <string name="tab1">TAB1</string>
+    <string name="tab2">TAB2</string>
+    <string name="tab3">TAB3</string>
+    <string-array name="country_codes">
+        <item>facebook</item>
+        <item>gmail</item>
+        <item>whatsapp</item>
+        <item>fb messenger</item>
+    </string-array>
+    <string name="easy">EASY</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+    <string name="imagecredit">Image Credit</string>
+    <string name="imagecredits2">
+    <item>\u00A0\u00A0 Trivia Knowledge \n\n
+            \u00A0\u00A0Some images where purchased\n
+            \u00A0\u00A0from Shutterstock &amp; used under the\nStandard license.\n
+
+    </item>
+</string>
+    <string name="imagecredits3">
+        <item>
+           \u00A0\u00A0Icons where used from Icons8\n
+            \u00A0\u00A0under the license\n
+            Creative Commons Attribution-NoDerivs 3.0 Unported.
+        </item>
+    </string>
+
+    <string name="networkIssue">network issue: Slow network /No network/Server issue</string>
+    <string name="selectCategory">Select Category</string>
+    <string name="AboutTriviaKnowledge">About Trivia Knowledge</string>
+    <string name="Privacypolicy">Privacy policy</string>
+    <string name="Imagecredit">Image credit</string>
+    <string name="About">About</string>
+    <string name="goback">Go back</string>
+    <string name="CHOOSEDIFFICULTY">CHOOSE DIFFICULTY</string>
+    <string name="reward">-------REWARD-------</string>
+    <string name="cost1gem">Cost : 1 gem</string>
+    <string name="removeextraletters">Remove extra letters!!</string>
+    <string name="boom1">Boom</string>
+    <string name="Text">Text</string>
+    <string name="zero">0</string>
+    <string name="image">image</string>
+    <string name="Progress">Progress</string>
+    <string name="tenhundred">10/100</string>
+    <string name="pack1">PACK 1</string>
+    <string name="pack2">PACK 2</string>
+    <string name="question1">Q1</string>
+    <string name="star">Star</string>
+    <string name="teacher_cartoon">Teacher cartoon</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="correct">Correct</string>
+    <string name="next_question">Next question</string>
+    <string name="Previous_question">Previous question</string>
+    <string name="reveal_hint">Reveal hint</string>
+    <string name="free_hint">Free Hint</string>
+    <string name="Boomblast">Boom</string>
+    <string name="diamond">Diamond</string>
+    <string name="twenty">20</string>
+    <string name="question">Question</string>
+    <string name="useless_alphabet_removed">Useless alphabet removed</string>
+    <string name="sound">Sound</string>
+    <string name="shop">Shop</string>
+    <string name="charetakergames"> </string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="PlayGame">Play Game</string>
+    <string name="quit">Quit</string>
+    <string name="ResetGame">Reset Game!</string>
+    <string name="ok">OK</string>
+    <string name="next">Next</string>
+    <string name="shopline">-------------------Shop-------------------</string>
+    <string name="rewardline">-----------------REWARD-----------------</string>
+    <string name="cost2gems">Cost : 2 gems</string>
+    <string name="reveal">Reveal</string>
+
+    <string name="gameId">1435569</string>
+</resources>
